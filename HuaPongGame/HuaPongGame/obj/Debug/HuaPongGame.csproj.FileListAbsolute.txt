@@ -1,0 +1,11 @@
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\bin\Debug\HuaPongGame.exe.config
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\bin\Debug\HuaPongGame.exe
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\bin\Debug\HuaPongGame.pdb
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.csprojAssemblyReference.cache
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.FormConf.resources
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.FormOnePlayer.resources
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.FormTwoPlayer.resources
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.Properties.Resources.resources
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.csproj.GenerateResource.cache
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.exe
+D:\GoogleDrives\2018S1\In511Programming2\wangh21\Assignment1\HuaPongGame\HuaPongGame\obj\Debug\HuaPongGame.pdb
